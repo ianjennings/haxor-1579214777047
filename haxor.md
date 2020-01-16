@@ -1,12 +1,12 @@
 # Haxor Video
 
-This repository was created by Ian Jennings with [Haxor](http://localhost:1337/replay/75b684c0-6fb1-4f01-ac20-642aa45e0ef9).
+This repository was created by Ian Jennings with [Haxor](https://app.haxor.sh/replay/4f5e021b-3ac7-4df4-bb83-2823aa0a9017).
 
-<a href="http://localhost:1337/replay/75b684c0-6fb1-4f01-ac20-642aa45e0ef9"><img src="http://localhost:1337/replay/75b684c0-6fb1-4f01-ac20-642aa45e0ef9/screenshot" alt="Screenshot of Haxor Recording" width="400" /></a> 
+<a href="https://app.haxor.sh/replay/4f5e021b-3ac7-4df4-bb83-2823aa0a9017"><img src="https://app.haxor.sh/replay/4f5e021b-3ac7-4df4-bb83-2823aa0a9017/screenshot" alt="Screenshot of Haxor Recording" width="400" /></a> 
 
-<a href="http://localhost:1337/replay/75b684c0-6fb1-4f01-ac20-642aa45e0ef9"><img src="http://localhost:1337/images/watch-on-haxor.png" alt="Watch on Haxor" /></a> 
+<a href="https://app.haxor.sh/replay/4f5e021b-3ac7-4df4-bb83-2823aa0a9017"><img src="https://app.haxor.sh/images/watch-on-haxor.png" alt="Watch on Haxor" /></a> 
 
-[Watch on Haxor](http://localhost:1337/replay/75b684c0-6fb1-4f01-ac20-642aa45e0ef9) to see this project built line-by-line.
+[Watch on Haxor](https://app.haxor.sh/replay/4f5e021b-3ac7-4df4-bb83-2823aa0a9017) to see this project built line-by-line.
 
 Haxor records file changes, desktop video, camera, microphone, and open applications as you code.
 
@@ -14,4 +14,4 @@ Haxor records file changes, desktop video, camera, microphone, and open applicat
 ---
 * Commits in this repository were made automatically on file change.
 
-* Check out the [Haxor Resources](http://localhost:1337) for more information on how to use Haxor.
+* Check out the [Haxor Resources](https://app.haxor.sh) for more information on how to use Haxor.
